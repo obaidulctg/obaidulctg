@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSS,Java Script, HTML5 ,Application Development and Etc. 
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me mohammedobaidulhoquectg@gmail.com 
-- 😄 Pronouns: his
+- 😄 Pronouns: Him
 - ⚡ Fun fact: I'm curious about Ethical Hacking .
 
 <!---
