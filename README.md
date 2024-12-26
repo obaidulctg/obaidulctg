@@ -30,8 +30,9 @@ A web application built with React and Node.js that provides awesome features fo
 Contributions to various open-source projects, focusing on improving documentation and fixing bugs.
 
 ## 📫 Connect with Me
+
+- [Facebook](https://facebook.com/obaidulhoquectg )
 - [Instagram](https://instagram.com/obaidulhoquectg)
-- [Facebook](https://facebook.com/obaidulhoquectg)
 - [LinkedIn](https://www.linkedin.com/in/obaidulhoquectg)
 - [Twitter](https://twitter.com/obaidulhoquectg)
 - [Personal Website](https://obaidulctg.github.io/obaidul)
