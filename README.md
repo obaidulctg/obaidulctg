@@ -23,16 +23,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ## 🌟 Featured Projects
 
-### [Project 1: Awesome Web App](https://github.com/obaidulctg/awesome-web-app)
+### [Project 1: Portfolio ](https://github.com/obaidulctg/o)
 A web application built with React and Node.js that provides awesome features for users.
 
-### [Project 2: Open Source Contribution](https://github.com/obaidulctg/open-source-contribution)
+### [Project 2: Portfolio-2](https://github.com/obaidulctg/obaidul)
 Contributions to various open-source projects, focusing on improving documentation and fixing bugs.
 
 ## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/obaidulctg)
-- [Twitter](https://twitter.com/obaidulctg)
-- [Personal Website](https://www.obaidulctg.com)
+- [Instagram](https://instagram.com/obaidulhoquectg)
+- [Facebook](https://facebook.com/obaidulhoquectg)
+- [LinkedIn](https://www.linkedin.com/in/obaidulhoquectg)
+- [Twitter](https://twitter.com/obaidulhoquectg)
+- [Personal Website](https://obaidulctg.github.io/obaidul)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or just have a chat.
