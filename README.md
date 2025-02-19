@@ -23,11 +23,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ## 🌟 Featured Projects
 
-### [Project 1: Portfolio ](https://github.com/obaidulctg/o)
+### [Project: Portfolio ](https://github.com/obaidulctg/o)
 A web application built with React and Node.js that provides awesome features for users.
-
-### [Project 2: Portfolio-2](https://github.com/obaidulctg/obaidul)
-Contributions to various open-source projects, focusing on improving documentation and fixing bugs.
 
 ## 📫 Connect with Me
 
